@@ -7,6 +7,6 @@ export class AppService {
   }
 
   getBerhasil() {
-    return 'Berhasil! Sekali lagi, alhamdulillah';
+    return 'Berhasil! lagi';
   }
 }
